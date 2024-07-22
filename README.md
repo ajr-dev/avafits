@@ -35,7 +35,7 @@ The project was planned to use the following technology stack:
 
 - Frontend: SvelteKit with Tailwind CSS for responsive and efficient UI development
 - Backend: SvelteKit (full-stack framework)
-- Database: MongoDB for flexible, document-based data storage
+- Database: MongoDB or Supabase for flexible, document-based data storage
 - Build System: Turborepo for optimized build processes and monorepo management
 - Hosting/Deployment: Cloudflare for edge computing and content delivery
 
